@@ -10,5 +10,10 @@
 git clone https://github.com/utkarsh17ife/react-tube.git 
 cd react-tube 
 npm install 
-npm start
+node server
+````
+
+#### Deployed here
+````
+https://react-you-tube.herokuapp.com/
 ````
